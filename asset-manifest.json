@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/auditorium-client-v3/static/css/main.46c573aa.chunk.css",
+    "main.js": "/auditorium-client-v3/static/js/main.64f15431.chunk.js",
+    "main.js.map": "/auditorium-client-v3/static/js/main.64f15431.chunk.js.map",
+    "runtime-main.js": "/auditorium-client-v3/static/js/runtime-main.2dc3d71f.js",
+    "runtime-main.js.map": "/auditorium-client-v3/static/js/runtime-main.2dc3d71f.js.map",
+    "static/js/2.4d9e8847.chunk.js": "/auditorium-client-v3/static/js/2.4d9e8847.chunk.js",
+    "static/js/2.4d9e8847.chunk.js.map": "/auditorium-client-v3/static/js/2.4d9e8847.chunk.js.map",
+    "static/js/3.2a4a81ae.chunk.js": "/auditorium-client-v3/static/js/3.2a4a81ae.chunk.js",
+    "static/js/3.2a4a81ae.chunk.js.map": "/auditorium-client-v3/static/js/3.2a4a81ae.chunk.js.map",
+    "index.html": "/auditorium-client-v3/index.html",
+    "static/css/main.46c573aa.chunk.css.map": "/auditorium-client-v3/static/css/main.46c573aa.chunk.css.map",
+    "static/js/2.4d9e8847.chunk.js.LICENSE.txt": "/auditorium-client-v3/static/js/2.4d9e8847.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dc3d71f.js",
+    "static/js/2.4d9e8847.chunk.js",
+    "static/css/main.46c573aa.chunk.css",
+    "static/js/main.64f15431.chunk.js"
+  ]
+}
