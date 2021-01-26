@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/auditorium/static/css/main.9eda1222.chunk.css",
-    "main.js": "/auditorium/static/js/main.83e401c1.chunk.js",
-    "main.js.map": "/auditorium/static/js/main.83e401c1.chunk.js.map",
-    "runtime-main.js": "/auditorium/static/js/runtime-main.dca76656.js",
-    "runtime-main.js.map": "/auditorium/static/js/runtime-main.dca76656.js.map",
-    "static/js/2.b06b64c4.chunk.js": "/auditorium/static/js/2.b06b64c4.chunk.js",
-    "static/js/2.b06b64c4.chunk.js.map": "/auditorium/static/js/2.b06b64c4.chunk.js.map",
-    "static/js/3.7f126d2a.chunk.js": "/auditorium/static/js/3.7f126d2a.chunk.js",
-    "static/js/3.7f126d2a.chunk.js.map": "/auditorium/static/js/3.7f126d2a.chunk.js.map",
+    "main.css": "/auditorium/static/css/main.4787a5ea.chunk.css",
+    "main.js": "/auditorium/static/js/main.93fa9567.chunk.js",
+    "main.js.map": "/auditorium/static/js/main.93fa9567.chunk.js.map",
+    "runtime-main.js": "/auditorium/static/js/runtime-main.368133ce.js",
+    "runtime-main.js.map": "/auditorium/static/js/runtime-main.368133ce.js.map",
+    "static/js/2.41eb2f02.chunk.js": "/auditorium/static/js/2.41eb2f02.chunk.js",
+    "static/js/2.41eb2f02.chunk.js.map": "/auditorium/static/js/2.41eb2f02.chunk.js.map",
+    "static/js/3.a1f0ab60.chunk.js": "/auditorium/static/js/3.a1f0ab60.chunk.js",
+    "static/js/3.a1f0ab60.chunk.js.map": "/auditorium/static/js/3.a1f0ab60.chunk.js.map",
     "index.html": "/auditorium/index.html",
-    "static/css/main.9eda1222.chunk.css.map": "/auditorium/static/css/main.9eda1222.chunk.css.map",
-    "static/js/2.b06b64c4.chunk.js.LICENSE.txt": "/auditorium/static/js/2.b06b64c4.chunk.js.LICENSE.txt",
+    "static/css/main.4787a5ea.chunk.css.map": "/auditorium/static/css/main.4787a5ea.chunk.css.map",
+    "static/js/2.41eb2f02.chunk.js.LICENSE.txt": "/auditorium/static/js/2.41eb2f02.chunk.js.LICENSE.txt",
     "static/media/error.4bf130f2.png": "/auditorium/static/media/error.4bf130f2.png",
     "static/media/musicNotes.f29693de.svg": "/auditorium/static/media/musicNotes.f29693de.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dca76656.js",
-    "static/js/2.b06b64c4.chunk.js",
-    "static/css/main.9eda1222.chunk.css",
-    "static/js/main.83e401c1.chunk.js"
+    "static/js/runtime-main.368133ce.js",
+    "static/js/2.41eb2f02.chunk.js",
+    "static/css/main.4787a5ea.chunk.css",
+    "static/js/main.93fa9567.chunk.js"
   ]
 }
